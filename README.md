@@ -1,4 +1,4 @@
-# 🎙️ Echo Talk - Your Smart Voice Assistant ✨
+# 🎙️ Voice-to-Action - Your Smart Voice Assistant ✨
 ## Demo Video of Application:
 Drive link: https://drive.google.com/file/d/1lbiOV4_NsgWz3ULWjXJ5TVEtxmdecHL6/view?usp=sharing
 
