@@ -103,22 +103,15 @@ This magical project is under the MIT License - spread the magic! ✨
 
 ## 📬 Stay Connected
 
-- 📧 Email: pallavikumariagrawal8651@gmail.com
+- 📧 Email: shakshiagrawal4221@gmail.com
 
 <div align="center">
-
-### 🌟 Star us on GitHub! 
-
-If Echo Talk has helped you, consider giving us a star! ⭐
-
-[![GitHub stars](https://img.shields.io/github/stars/agrawalpallavi/echo-talk?style=social)](https://github.com/agrawalpallavi/echo-talk)
-
 </div>
 
 ---
 
 <div align="center">
 
-Made with 💖 by Pallavi Kumari Agrawal
+Made with 💖 by Shakshi Kumari Agrawal
 
 </div>
